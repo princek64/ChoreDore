@@ -29,16 +29,16 @@ body {
 }
 
 .instructions-number {
-  padding-right: 25px;
+  padding-right: 10px;
   font-family: 'Work Sans';
   font-size: 36px;
-  color: #00ffff;
+  color: #c5ced6;
 }
 
 .instructions-text {
   padding: 10px;
   font-family: 'Work Sans';
-  font-size: 14px;
+  font-size: 17px;
   color: #ffffff;
 }
 
@@ -53,14 +53,14 @@ body {
 
 .start-row {
   margin: auto;
-  width: 120px;
-  height: 43px;
-  background-color: #eb6536;
+  width: 128px;
+  height: 48px;
+  background-color: #fa8500;
   padding-top: 18px;
   font-family: 'Work Sans';
   font-size: 18px;
   text-align: center;
-  color: #010165;
+  color: #000000;
   margin-bottom: 9px;
   cursor: pointer;
 }
@@ -75,7 +75,7 @@ body {
   padding: 5px;
   display: inline;
   font-family: 'Work Sans';
-  font-size: 12px;
+  font-size: 16px;
   letter-spacing: 1.1px;
   color: #ffffff;
 }
@@ -87,7 +87,7 @@ body {
   margin: 18px;
   margin-right: 29px;
   width: 59px;
-  background-color: #00ffff;
+  background-color: #1157da;
   font-family: 'Work Sans';
   font-size: 45px;
 }
